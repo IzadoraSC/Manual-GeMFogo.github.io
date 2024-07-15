@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Manual de Mapeamento de Fogo: para o cerrado maranhense"
+  title: "Manual de Mapeamento de Fogo: uma aplicação na gestão de áreas protegidas no cerrado maranhense"
   reader-mode: true
   
 
