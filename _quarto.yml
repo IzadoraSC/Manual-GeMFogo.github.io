@@ -32,9 +32,11 @@ format:
     theme: 
       - cosmo
       - r4ds.scss
+    css: styles.css
     code-link: true
     author-meta: "Izadora S. de Carvalho, Swanni T. Alvarado, Henrique Leão, Tiago Massi Ferraz"
     callout-appearance: simple
+    
 
 
 editor: visual
