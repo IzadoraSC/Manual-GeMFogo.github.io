@@ -15,10 +15,10 @@ book:
     
     #- preface.qmd
     - intro.qmd
-    - part: Ferramentas
-      chapters: 
-      - summary.qmd
-      - Capítulo 1.qmd
+    # - part: Ferramentas
+    #   chapters: 
+    - cap1.qmd
+    - cap2.qmd
     - references.qmd
 
 lang: pt
