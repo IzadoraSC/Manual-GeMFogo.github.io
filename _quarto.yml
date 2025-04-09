@@ -5,15 +5,11 @@ project:
 book:
   title: "Manual de Mapeamento de Fogo: uma aplicação na gestão de áreas protegidas no cerrado maranhense"
   reader-mode: true
-  
-
   cover-image: cover.png
   favicon: cover.png
-  #site-url: https://r4ds.hadley.nz/
   repo-url: https://github.com/IzadoraSC/Manual-GeMFogo.github.io/
   repo-branch: main
   repo-actions: [edit, issue]
-  
   chapters:
     - index.qmd
     
@@ -25,16 +21,17 @@ book:
       - Capítulo 1.qmd
     - references.qmd
 
+lang: pt
+  
 bibliography: references.bib
 
 format:
   html:
     theme: 
-      - cosmo
-      - r4ds.scss
+      - sandstone 
     css: styles.css
     code-link: true
-    author-meta: "Izadora S. de Carvalho, Swanni T. Alvarado, Henrique Leão, Tiago Massi Ferraz"
+    author-meta: "Izadora S. de Carvalho, Swanni T. Alvarado, Tiago Massi Ferraz"
     callout-appearance: simple
     
 

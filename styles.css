@@ -1,3 +1,97 @@
-.text-justify {
-    text-align: justify;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+
+/* Corpo geral */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fffdf7;
+  color: #2e2e2e;
+  line-height: 1.7;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #5a3c1e; /* terra */
+}
+
+/* Links */
+a {
+  color: #b02e0c; /* vermelho-fogo */
+}
+
+a:hover {
+  color: #7a1f0b;
+  text-decoration: underline;
+}
+
+/* Código */
+pre, code {
+  background-color: #f3f2ed;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95em;
+  color: #2f3e2e;
+  border-radius: 5px;
+  padding: 0.2em 0.4em;
+}
+
+/* Blocos de código */
+pre {
+  padding: 1em;
+  overflow-x: auto;
+  border-left: 4px solid #b02e0c; /* destaque código */
+}
+
+/* Caixas de alerta */
+.callout {
+  border-left: 5px solid #4a5c3b; /* verde seco */
+  background-color: #f9f9f3;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #f7f5f0;
+  border-right: 1px solid #d3c4b6;
+}
+
+/* Cabeçalho e navegação */
+.navbar, .nav-footer {
+  background-color: #e5e0d8;
+  color: #2e2e2e;
+}
+
+.nav-footer {
+  border-top: 2px solid #c8b59b;
+}
+
+/* Justificar parágrafos */
+p {
+  text-align: justify;
+}
+
+/* Tabelas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.6em;
+}
+
+th {
+  background-color: #eee6d9;
+  color: #3a2e1e;
+}
+
+/* Citações */
+blockquote {
+  border-left: 4px solid #a0561f;
+  background-color: #fdf7f1;
+  padding: 0.6em 1em;
+  margin: 1em 0;
+  font-style: italic;
+  color: #3f3f3f;
 }
