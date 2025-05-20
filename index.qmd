@@ -1,13 +1,13 @@
 # Prefácio {.unnumbered}
 
 ::: text-justify
-O manual de Mapeamento de Fogo em Áreas do Cerrado Maranhense está sendo desenvolvido para registrar os trabalhos de mapeamento realizados em áreas de proteção (Unidades de Conservação e Territórios Indigenas) inseridas no bioma Cerrado. Este manual tem como primeira área destaque na geração de informações e produtos de detecção e mapeamento de queimadas o Parque Nacional da Chapada das Mesas (PNCM), a partir do trabalho desenvolvido por Carvalho e colaboradores (2023). Contudo outras áreas de proteção no estado do Maranhão possuiem trabalhos de mapeamento de fogo em adamento ou prospectados. Portanto esta será uma primeira versão do manual que será atualizado conforme os trabalho forem ocorrendo e colaborações de outros autores forem surgindo.
+O manual de Mapeamento de Fogo em Áreas do Cerrado Maranhense está sendo desenvolvido para registrar os trabalhos de mapeamento realizados em áreas de proteção (Unidades de Conservação e Territórios Indigenas) inseridas no bioma Cerrado. Este manual tem como primeira área destaque na geração de informações e produtos de detecção e mapeamento de queimadas o Parque Nacional da Chapada das Mesas (PNCM), a partir do trabalho desenvolvido por Carvalho e colaboradores (2023). Contudo outras áreas de proteção no estado do Maranhão possuiem trabalhos de mapeamento de fogo em andamento ou prospectados. Portanto esta será uma primeira versão do manual que será atualizado conforme os trabalho forem ocorrendo e colaborações de outros autores forem surgindo.
 
-Muitos produtos de detecção automática de áreas queimadas foram desenvolvidos ao longo do tempo, com o avanço dos sensores e produtos obtidos por sensoriamento remoto. Este manual tem por objetivo, a partir de metodologias que fornecem produtos mais detalhados de informações de histórico de fogo, levando em consideração as características locais de cada área/região mapeada. O Cerrado é caracterizado pela sua heterogeneidade fitofisionomica, portando buscamos divulgar dados em uma escala (espacial/temporal) que contemplem a biodiversidade existente, com enfoque na região do Cerrado maranhense que está localizado ao norte da área do bioma, entre uma região de transição Amazônia-Cerrado-Caatinga.
+Muitos produtos de detecção automática de áreas queimadas foram desenvolvidos ao longo do tempo, com o avanço dos sensores e produtos obtidos por sensoriamento remoto. Este manual tem por objetivo, a partir de metodologias que fornecem produtos mais detalhados de informações de histórico de fogo, levar em consideração as características locais de cada área/região mapeada, possibilitando colaborar com a melhoria de metodologias automátizadas. O Cerrado é caracterizado pela sua heterogeneidade fitofisionomica, portando buscamos divulgar dados em uma escala (espacial/temporal) que contemplem a biodiversidade existente, com enfoque, nesta primeira versão, na região do Cerrado maranhense que está localizado ao norte da área do bioma, em uma região de transição entre os biomas Amazônia-Cerrado-Caatinga.
 :::
 
-
 # Autores
+
 ::: text-justify
 Izadora S. de Carvalho, Swanni T. Alvarado, Tiago Massi Ferraz
 :::
@@ -17,11 +17,11 @@ Izadora S. de Carvalho, Swanni T. Alvarado, Tiago Massi Ferraz
 ::: text-justify
 O manual de Mapeamento de Fogo em Áreas do Cerrado Maranhense foi idealizado pelo pesquisador Celso Silva-Júnior a partir dos trabalhos desenvolvidos por Izadora Santos de Carvalho sob orientação da pesquisadora Drª Swanni T. Alvarado da Universidad Nacional de Colombia (UNAL - Bogotá) e do pequisador Dr. Tiago Massi Ferraz da Universidade Estadual do Maranhão (UEMA - São Luís).
 
-Os trabalhos divulgados contaram com apoio e financiamento: FAPEMA, CAPES, MapFire, PPGAA, PPGA, UEMA, UEMASUL, LCAB, UNESP (Ecodyn).
+Os trabalhos divulgados contaram com apoio e financiamento: FAPEMA, CAPES, MapFire, CNPq, PPGAA, PPGA, UEMA, UEMASUL, LCAB, UNESP (Ecodyn/Rio Claro-SP).
 
-E aos pesquisadores que colaboraram direta e indiretamente com os trabalhos apresentados, desde colaboração intelectual à estrutural: Thiago Sana, Carlos Leandro, Daniel Borini, Fabio Afonso, Jose Roberto, Alinne Silva, Caio, Patrick Costa Silva, Leo Leonel, Rayssa, e a gestão do PNCM.
+E aos pesquisadores que colaboraram direta e indiretamente com os trabalhos apresentados, desde colaboração intelectual à estrutural: Thiago Sanna Freire Silva, Carlos Leandro de Oliveira Cordeiro, Daniel Borini Alves, Fabio A.M.M.A. Figueiredo, Jose Roberto P. de Sousa, Alinne Silva, Patrick Costa Silva, Leo Vieira Leonel, Raysa Valéria Carvalho Saraiva, e a gestão do PNCM
 :::
 
 *Para colaborar com a elaboração do manual entre em contato:* izadorasccs\@gmail.com
 
-*Este produto foi desenvolvido utilizando [Quarto books](https://quarto.org/docs/books).*
+*Este produto em desenvolvimento utilizando [Quarto books](https://quarto.org/docs/books).*
